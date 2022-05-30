@@ -47,7 +47,14 @@ If the control input changes to AB = 10, then all the gates are restricted excep
  
  
 ### Procedure
-/* write all the steps invloved */
+```
+1.Start the module using module projname().
+2.Declare the inputs and outputs along with the select lines according to the multiplexer and demultiplexer.
+3.Use wire to assign intermediate outputs.
+4.Use and,or and not gates to get the desired output.
+5.End the module.
+6.Generate RTL realization and timing diagrams.
+```
 
 
 
@@ -134,10 +141,14 @@ DEMULTIPLUXER:
 
 
 ### TRUTH TABLE
-DEMULTIPLUXER : 
+MULTIPLUXER :
+![image](https://user-images.githubusercontent.com/94165326/170917956-29dbe7fa-ba74-4846-9f8a-4bbd02678dda.png)
+
 
 
 DEMULTIPLUXER :
+![image](https://user-images.githubusercontent.com/94165326/170917977-38a5a0a6-a943-4bb8-8e9f-f2b3aee99f9e.png)
+
 
 
 
