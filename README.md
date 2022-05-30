@@ -130,6 +130,8 @@ DEMULTIPLUXER RTL:
 
 
 DEMULTIPLUXER:
+![image](https://user-images.githubusercontent.com/94165326/170917785-5f79fe0a-685b-4847-8e60-9632a4be7450.png)
+
 
 ### TRUTH TABLE
 DEMULTIPLUXER : 
