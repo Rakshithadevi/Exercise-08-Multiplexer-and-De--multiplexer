@@ -100,11 +100,15 @@ endmodule
 MULTIPLUXER RTL:
 ```
 
+![image](https://user-images.githubusercontent.com/94165326/170917425-b9b198ea-9bf3-423c-a506-7513ac27a7b2.png)
+
+
 
 
 ```
 DEMULTIPLUXER RTL:
 ```
+![image](https://user-images.githubusercontent.com/94165326/170917454-37b23e1b-1982-4432-a75f-177f535872c8.png)
 
 
 
@@ -116,6 +120,11 @@ DEMULTIPLUXER RTL:
 
 ### TIMING DIGRAMS 
 DEMULTIPLUXER RTL:
+![image](https://user-images.githubusercontent.com/94165326/170917498-1b440744-8c0a-40a5-90ba-caecec1af9c7.png)
+![image](https://user-images.githubusercontent.com/94165326/170917525-fcf6422d-c534-4821-91df-f1cb33ffaa8a.png)
+![image](https://user-images.githubusercontent.com/94165326/170917544-dcfc0206-7b3d-4557-95c9-2ae30d77506f.png)
+![image](https://user-images.githubusercontent.com/94165326/170917627-01b1aaa1-1cc1-4fcf-a7ef-07b834692c04.png)
+
 
 
 
