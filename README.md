@@ -126,7 +126,8 @@ DEMULTIPLUXER RTL:
 
 
 ### TIMING DIGRAMS 
-DEMULTIPLUXER RTL:
+MULTIPLUXER :
+
 ![image](https://user-images.githubusercontent.com/94165326/170917498-1b440744-8c0a-40a5-90ba-caecec1af9c7.png)
 ![image](https://user-images.githubusercontent.com/94165326/170917525-fcf6422d-c534-4821-91df-f1cb33ffaa8a.png)
 ![image](https://user-images.githubusercontent.com/94165326/170917544-dcfc0206-7b3d-4557-95c9-2ae30d77506f.png)
@@ -137,16 +138,22 @@ DEMULTIPLUXER RTL:
 
 
 DEMULTIPLUXER:
+
+
 ![image](https://user-images.githubusercontent.com/94165326/170917785-5f79fe0a-685b-4847-8e60-9632a4be7450.png)
 
 
 ### TRUTH TABLE
 MULTIPLUXER :
+
+
 ![image](https://user-images.githubusercontent.com/94165326/170917956-29dbe7fa-ba74-4846-9f8a-4bbd02678dda.png)
 
 
 
 DEMULTIPLUXER :
+
+
 ![image](https://user-images.githubusercontent.com/94165326/170917977-38a5a0a6-a943-4bb8-8e9f-f2b3aee99f9e.png)
 
 
