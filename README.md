@@ -67,6 +67,7 @@ RegisterNumber:212221230082
 ```
 MULTIPLUXER:
 ```
+```
 module imp(I0,I1,I2,I3,S0,S1,Y);
 input I0,I1,I2,I3,S0,S1;
 output Y;
