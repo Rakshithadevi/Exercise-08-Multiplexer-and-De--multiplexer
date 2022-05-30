@@ -147,9 +147,7 @@ DEMULTIPLUXER:
 MULTIPLUXER :
 
 
-![image](https://user-images.githubusercontent.com/94165326/170917956-29dbe7fa-ba74-4846-9f8a-4bbd02678dda.png)
-
-
+![image](https://user-images.githubusercontent.com/94165326/171010049-cd3a08a7-14a8-4d43-8ac2-5ab651af02be.png)
 
 DEMULTIPLUXER :
 
