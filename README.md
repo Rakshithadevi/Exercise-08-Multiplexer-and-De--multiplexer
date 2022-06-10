@@ -109,7 +109,7 @@ MULTIPLUXER RTL:
 ```
 
 
-![image](https://user-images.githubusercontent.com/94165326/170917425-b9b198ea-9bf3-423c-a506-7513ac27a7b2.png)
+![image](https://user-images.githubusercontent.com/94165326/173112995-cff7e0f7-14af-4e13-bcc7-fa855024faf6.png)
 
 
 
