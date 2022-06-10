@@ -101,12 +101,11 @@ endmodule
 
 
 
-
+### OUTPUT:
 
 ### RTL LOGIC  
-```
 MULTIPLUXER RTL:
-```
+
 
 
 ![image](https://user-images.githubusercontent.com/94165326/173112995-cff7e0f7-14af-4e13-bcc7-fa855024faf6.png)
@@ -114,9 +113,8 @@ MULTIPLUXER RTL:
 
 
 
-```
 DEMULTIPLUXER RTL:
-```
+
 ![image](https://user-images.githubusercontent.com/94165326/170917454-37b23e1b-1982-4432-a75f-177f535872c8.png)
 
 
